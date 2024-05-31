@@ -67,7 +67,7 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 
 - Controle eletrônico IoT:
   
--[Link para acessar o arquino no Thinkercad](https://www.tinkercad.com/things/3uKhScYulXU-copy-of-edgegs1esr/editel?sharecode=n0zhJN7rcy7qgZrJtA66I9DSjXLWWNllsx8d4GIisNk)
+- [Link para acessar o arquino no Thinkercad](https://www.tinkercad.com/things/3uKhScYulXU-copy-of-edgegs1esr/editel?sharecode=n0zhJN7rcy7qgZrJtA66I9DSjXLWWNllsx8d4GIisNk)
 
 
   
