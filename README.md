@@ -66,7 +66,7 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 
 
 - Controle eletrônico IoT:
-  [Link para acessar o arquino no Thinkercad](https://www.tinkercad.com/things/3uKhScYulXU-copy-of-edgegs1esr/editel?sharecode=n0zhJN7rcy7qgZrJtA66I9DSjXLWWNllsx8d4GIisNk)
+  #[Link para acessar o arquino no Thinkercad](https://www.tinkercad.com/things/3uKhScYulXU-copy-of-edgegs1esr/editel?sharecode=n0zhJN7rcy7qgZrJtA66I9DSjXLWWNllsx8d4GIisNk)
   
 ![EDGE de GS ](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/91e12b7c-9dbf-4cc7-9d0f-45fed4702ae5)
 
@@ -74,7 +74,9 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 
 
 - Quantidade de microplásticos identificados pela camêra e temperatura do oceano:
-  [Link para acessar o arquino no Wokwi](https://wokwi.com/projects/399439371914634241)
+  #[Link para acessar o arquino no Wokwi](https://wokwi.com/projects/399439371914634241)
+
+  
 ![img1](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/7584c599-7483-4f98-a10b-981d52d6cd92)
 
 
