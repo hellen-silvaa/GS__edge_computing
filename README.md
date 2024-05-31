@@ -69,7 +69,8 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 
 ![EDGE de GS ](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/91e12b7c-9dbf-4cc7-9d0f-45fed4702ae5)
 
-  
+  [Link para acessar o arquino no Thinkercad](https://www.tinkercad.com/things/3uKhScYulXU-copy-of-edgegs1esr/editel?sharecode=n0zhJN7rcy7qgZrJtA66I9DSjXLWWNllsx8d4GIisNk)
+
 
 - Quantidade de microplásticos identificados pela camêra e temperatura do oceano:
 
