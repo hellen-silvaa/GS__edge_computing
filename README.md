@@ -38,6 +38,19 @@ Para montar o protótipo do robô subaquático, serão necessários os seguintes
 
 
 
+
+
+
+### Prototipo final 
+
+Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas com alto índice de microplásticos por meio de modelagem computacional e sensores que capturam a temperatura do habitat, auxiliando na detecção do aquecimento das águas oceânicas e na avaliação da saúde dos corais para uma intervenção rápida e eficaz. 
+(Os dados foram gerados aleatoriamente para simular o cálculo que será realizado pela modelagem computacional.)
+
+![Descrição da imagem](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/1d4d994c-a861-47cd-9659-62a07a5dc77a)
+![Descrição da imagem](URL_da_imagem)
+
+
+
 - Integrantes do Grupo:
   - Alexia Ramalho: RM 558355
   - Hellen Moura: RM 559008
