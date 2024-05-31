@@ -25,6 +25,7 @@ Para montar o protótipo do robô subaquático, serão necessários os seguintes
   - Sistema de comunicação acústica (GPS acústico)
   - Braços robóticos para coleta de amostras 
   - Computador de bordo com capacidade de processamento de dados
+  - Módulo sensor Turbidez (Útil para conferir a poluição da água atraves da presença de particulas em suspensão na água)
 
 - **Principais tecnologias utilizadas:**
   - C++
