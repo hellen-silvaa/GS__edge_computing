@@ -48,7 +48,7 @@ Este projeto consiste em um protótipo de robô marinho controlado por controle 
 
 - **L293D**: É um circuito integrado utilizado para controlar os motores do robô. Ele recebe os sinais do Arduino e os amplifica para fornecer a potência necessária aos motores, permitindo um controle preciso sobre o movimento e a velocidade dentro da água.
 
-**Motor CC**: O motor de corrente contínua é responsável por fornecer a propulsão necessária ao robô marinho, e seu controle é realizado por meio do Arduino e do chip L293D, garantindo uma navegação precisa e segura nas profundezas oceânicas e a movimentação das hélices.
+- **Motor CC**: O motor de corrente contínua é responsável por fornecer a propulsão necessária ao robô marinho, e seu controle é realizado por meio do Arduino e do chip L293D, garantindo uma navegação precisa e segura nas profundezas oceânicas e a movimentação das hélices.
 
 **DHT22*: É um sensor altamente confiável e preciso, capaz de medir temperatura e umidade relativa com precisão, sendo uma boa escolha para este projeto de IoT e monitoramento ambiental.
 
