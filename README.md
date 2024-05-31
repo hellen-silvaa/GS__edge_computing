@@ -87,7 +87,7 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 
 - Porcentagem de poluição do oceano analisado:
 
-(![222](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/f46d4944-97fa-43f0-83b2-cd92ce86f286)
+![222](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/f46d4944-97fa-43f0-83b2-cd92ce86f286)
 
 
 
