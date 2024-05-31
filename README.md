@@ -51,12 +51,14 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 
 #Quantidade de microplásticos identificados pela camêra e temperatura do oceano:
 
-(https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/d9b2c057-bdee-40a2-a262-c6d0e5ea88bc)
+![img1](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/7584c599-7483-4f98-a10b-981d52d6cd92)
+
 
 
 #Porcentagem de poluição do oceano analisado:
 
-(https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/1d4d994c-a861-47cd-9659-62a07a5dc77a)
+![22](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/096c8d99-f0c9-4f02-9bea-36f8f87b7aa5)
+
 
 
 - Integrantes do Grupo:
