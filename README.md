@@ -90,6 +90,9 @@ Contribuições para a melhoria do protótipo são bem-vindas. Se você tiver su
 
 
 ## Integrantes do Grupo:
-  - Alexia Ramalho: RM 558355
+
+  - [ Alexia Ramalho: RM 558355](https://www.linkedin.com/in/alexia-ramalho-a81587260/)
+
+  
   - Hellen Moura: RM 559008
   - Lorenzo: RM 557397
