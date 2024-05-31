@@ -74,6 +74,7 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 
 
 - Quantidade de microplásticos identificados pela camêra e temperatura do oceano:
+- 
 - [Link para acessar o arquino no Wokwi](https://wokwi.com/projects/399439371914634241)
 
   
