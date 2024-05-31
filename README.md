@@ -57,10 +57,6 @@ O Arduino recebe os sinais do controle remoto e os processa para determinar os c
 
 Uma das preocupações primárias ao projetar o robô marinho foi garantir sua segurança em profundidades oceânicas. Para evitar o risco de explosão, foram selecionados cuidadosamente os materiais e componentes utilizados na construção do protótipo. é um protótipo que busca garantir a estanqueidade do dispositivo e sua capacidade de suportar a pressão nas profundidades previstas.
 
-## Contribuição
-
-Contribuições para a melhoria do protótipo são bem-vindas. Se você tiver sugestões, ideias ou correções, sinta-se à vontade para enviar um pull request.
-
 
 ### Prototipo final 
 
@@ -81,8 +77,12 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 ![22](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/096c8d99-f0c9-4f02-9bea-36f8f87b7aa5)
 
 
+## Contribuição
 
-- Integrantes do Grupo:
+Contribuições para a melhoria do protótipo são bem-vindas. Se você tiver sugestões, ideias ou correções, sinta-se à vontade para enviar um pull request.
+
+
+#### Integrantes do Grupo:
   - Alexia Ramalho: RM 558355
   - Hellen Moura: RM 559008
   - Lorenzo: RM 557397
