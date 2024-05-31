@@ -43,8 +43,6 @@ Este projeto consiste em um protótipo de robô marinho controlado por controle 
   
 - **Bateria de 9V**: A bateria fornece a energia necessária para o funcionamento do sistema. Sua tensão é adequada para alimentar o Arduino e os outros componentes eletrônicos do protótipo.
 
-- **Joystick**: Representa o controle remoto para enviar comandos para o robô marinho. Os sinais são captados pelo Arduino, que os interpreta e executa as ações correspondentes.
-
 - **Joysticks**: Dois joysticks são empregados para permitir um controle intuitivo sobre o movimento e a velocidade do robô. Eles são conectados ao Arduino e permitem ao operador controlar a direção e a intensidade dos movimentos.
 
 - **L293D**: O L293D é um circuito integrado utilizado para controlar os motores do robô. Ele recebe os sinais do Arduino e os amplifica para fornecer a potência necessária aos motores, permitindo um controle preciso sobre o movimento e a velocidade dentro da água.
