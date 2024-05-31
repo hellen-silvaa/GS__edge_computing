@@ -46,10 +46,17 @@ Para montar o protótipo do robô subaquático, serão necessários os seguintes
 Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas com alto índice de microplásticos por meio de modelagem computacional e sensores que capturam a temperatura do habitat, auxiliando na detecção do aquecimento das águas oceânicas e na avaliação da saúde dos corais para uma intervenção rápida e eficaz. 
 (Os dados foram gerados aleatoriamente para simular o cálculo que será realizado pela modelagem computacional.)
 
-![Porcentagem de poluição do oceano analisado](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/1d4d994c-a861-47cd-9659-62a07a5dc77a)
 
-![Descrição da imagem](URL_da_imagem)
 
+
+#Quantidade de microplásticos identificados pela camêra e temperatura do oceano:
+
+(https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/d9b2c057-bdee-40a2-a262-c6d0e5ea88bc)
+
+
+#Porcentagem de poluição do oceano analisado:
+
+(https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/1d4d994c-a861-47cd-9659-62a07a5dc77a)
 
 
 - Integrantes do Grupo:
