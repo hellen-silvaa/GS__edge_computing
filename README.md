@@ -30,7 +30,7 @@ Para montar o protótipo do robô subaquático, serão necessários os seguintes
 - **Principais tecnologias utilizadas:**
   - C++
   - Software Tinkercad
-  - Sistema operacional compatível
+  - Software Wokwi
 
 
 ## Explicação do Projeto 
