@@ -2,7 +2,7 @@
 
 ## Descrição Detalhada do Projeto
 
-Nosso projeto visa utilizar um robô para coletar dados do fundo do mar, ele é essencial para monitorar a temperatura, identificar áreas com alto índice de microplásticos através de modelagem computacional e sensores que capturam a temperatura do habitat ajudando a identificar o aquecimento das águas do oceano a avaliar a saúde dos corais. 
+Nosso projeto visa utilizar um robô para coletar dados do fundo do mar, ele é essencial para monitorar a temperatura, identificar áreas com alto índice de microplásticos através de modelagem computacional e sensores que capturam a temperatura do habitat ajudando a identificar o aquecimento das águas do oceano e avaliar a saúde dos corais. 
 
 Essas informações são cruciais para a conservação marinha e a pesquisa científica. O robô foi projetado para operar em profundidades extremas e em ambientes adversos, onde a intervenção humana é inviável devido à pressão e aos riscos físicos. Ele é capaz de realizar operações prolongadas e eficientes, acessando locais inacessíveis aos humanos e fornecendo dados precisos e consistentes para a gestão sustentável dos ecossistemas marinhos.
 
