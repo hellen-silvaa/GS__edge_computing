@@ -45,7 +45,7 @@ Este projeto consiste em um protótipo de robô marinho controlado por controle 
 
 - **Joysticks**: Dois joysticks são empregados para permitir um controle intuitivo sobre o movimento e a velocidade do robô. Eles são conectados ao Arduino e permitem ao operador controlar a direção e a intensidade dos movimentos.
 
-- **L293D**: O L293D é um circuito integrado utilizado para controlar os motores do robô. Ele recebe os sinais do Arduino e os amplifica para fornecer a potência necessária aos motores, permitindo um controle preciso sobre o movimento e a velocidade dentro da água.
+- **L293D**: É um circuito integrado utilizado para controlar os motores do robô. Ele recebe os sinais do Arduino e os amplifica para fornecer a potência necessária aos motores, permitindo um controle preciso sobre o movimento e a velocidade dentro da água.
 
 **Motor CC**: O motor de corrente contínua é responsável por fornecer a propulsão necessária ao robô marinho, e seu controle é realizado por meio do Arduino e do chip L293D, garantindo uma navegação precisa e segura nas profundezas oceânicas e a movimentação das hélices.
 
