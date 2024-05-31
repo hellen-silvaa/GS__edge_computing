@@ -33,11 +33,11 @@ Para montar o protótipo do robô subaquático, serão necessários os seguintes
   - Sistema operacional compatível
 
 
-### Explicação do Projeto 
+## Explicação do Projeto 
 
 Este projeto consiste em um protótipo de robô marinho controlado por controle remoto, capaz de alcançar profundidades oceânicas sem risco de explosão. O sistema é alimentado por uma bateria de 9V e controlado por um Arduino, atuando como o cérebro do dispositivo. O robô é equipado com dois joysticks para controle de movimento e velocidade, além de um chip L293D para gerenciar esses aspectos de forma eficiente.
 
-## Componentes Principais
+## Explicação dos principais componentes
 
 - **Arduino**: O Arduino é responsável pelo controle e processamento de todas as operações do nosso robô marinho. Ele recebe os sinais do controle remoto e os converte em comandos para os motores e outras funcionalidades, como receber os dados do sensor de temperatura.
   
