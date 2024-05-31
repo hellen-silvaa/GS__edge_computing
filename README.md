@@ -32,13 +32,34 @@ Para montar o protótipo do robô subaquático, serão necessários os seguintes
   - Software Tinkercad
   - Sistema operacional compatível
 
-### Explicação do Código
 
+### Explicação do Projeto 
 
+Este projeto consiste em um protótipo de robô marinho controlado por controle remoto, capaz de alcançar profundidades oceânicas sem risco de explosão. O sistema é alimentado por uma bateria de 9V e controlado por um Arduino, atuando como o cérebro do dispositivo. O robô é equipado com dois joysticks para controle de movimento e velocidade, além de um chip L293D para gerenciar esses aspectos de forma eficiente.
 
+## Componentes Principais
 
+- **Arduino**: O Arduino é responsável pelo controle e processamento de todas as operações do nosso robô marinho. Ele recebe os sinais do controle remoto e os converte em comandos para os motores e outras funcionalidades, como receber os dados do sensor de temperatura.
+  
+- **Bateria de 9V**: A bateria fornece a energia necessária para o funcionamento do sistema. Sua tensão é adequada para alimentar o Arduino e os outros componentes eletrônicos do protótipo.
 
+- **Joystick**: Representa o controle remoto para enviar comandos para o robô marinho. Os sinais são captados pelo Arduino, que os interpreta e executa as ações correspondentes.
 
+- **Joysticks**: Dois joysticks são empregados para permitir um controle intuitivo sobre o movimento e a velocidade do robô. Eles são conectados ao Arduino e permitem ao operador controlar a direção e a intensidade dos movimentos.
+
+- **L293D**: O L293D é um circuito integrado utilizado para controlar os motores do robô. Ele recebe os sinais do Arduino e os amplifica para fornecer a potência necessária aos motores, permitindo um controle preciso sobre o movimento e a velocidade dentro da água.
+
+## Funcionamento
+
+O Arduino recebe os sinais do controle remoto e os processa para determinar os comandos correspondentes. Esses comandos são então enviados para o L293D, que controla os motores do robô marinho de acordo com as instruções recebidas. Os joysticks permitem ao operador controlar a direção e a velocidade do robô de forma intuitiva e precisa.
+
+## Segurança
+
+Uma das preocupações primárias ao projetar o robô marinho foi garantir sua segurança em profundidades oceânicas. Para evitar o risco de explosão, foram selecionados cuidadosamente os materiais e componentes utilizados na construção do protótipo. é um protótipo que busca garantir a estanqueidade do dispositivo e sua capacidade de suportar a pressão nas profundidades previstas.
+
+## Contribuição
+
+Contribuições para a melhoria do protótipo são bem-vindas. Se você tiver sugestões, ideias ou correções, sinta-se à vontade para enviar um pull request.
 
 
 ### Prototipo final 
@@ -46,7 +67,7 @@ Para montar o protótipo do robô subaquático, serão necessários os seguintes
 Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas com alto índice de microplásticos por meio de modelagem computacional e sensores que capturam a temperatura do habitat, auxiliando na detecção do aquecimento das águas oceânicas e na avaliação da saúde dos corais para uma intervenção rápida e eficaz. 
 (Os dados foram gerados aleatoriamente para simular o cálculo que será realizado pela modelagem computacional.)
 
-
+#
 
 
 #Quantidade de microplásticos identificados pela camêra e temperatura do oceano:
