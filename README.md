@@ -65,16 +65,22 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 
 #
 
+- Controle eletrônico IoT:
 
-#Quantidade de microplásticos identificados pela camêra e temperatura do oceano:
+![EDGE de GS ](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/91e12b7c-9dbf-4cc7-9d0f-45fed4702ae5)
+
+  
+
+- Quantidade de microplásticos identificados pela camêra e temperatura do oceano:
 
 ![img1](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/7584c599-7483-4f98-a10b-981d52d6cd92)
 
 
 
-#Porcentagem de poluição do oceano analisado:
+- Porcentagem de poluição do oceano analisado:
 
 ![22](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/096c8d99-f0c9-4f02-9bea-36f8f87b7aa5)
+
 
 
 ## Contribuição
@@ -82,7 +88,7 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 Contribuições para a melhoria do protótipo são bem-vindas. Se você tiver sugestões, ideias ou correções, sinta-se à vontade para enviar um pull request.
 
 
-#### Integrantes do Grupo:
+### Integrantes do Grupo:
   - Alexia Ramalho: RM 558355
   - Hellen Moura: RM 559008
   - Lorenzo: RM 557397
