@@ -66,7 +66,7 @@ Uma das preocupações primárias ao projetar o robô marinho foi garantir sua s
 Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas com alto índice de microplásticos por meio de modelagem computacional e sensores que capturam a temperatura do habitat, auxiliando na detecção do aquecimento das águas oceânicas e na avaliação da saúde dos corais para uma intervenção rápida e eficaz. 
 (Os dados foram gerados aleatoriamente para simular o cálculo que será realizado pela modelagem computacional.)
 
-![file (6)](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/3b23796e-75ec-4bb5-bc57-3552a4b09137)
+
 
 
 - Controle eletrônico IoT:
@@ -93,6 +93,11 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 
 ![222](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/f46d4944-97fa-43f0-83b2-cd92ce86f286)
 
+
+## 
+![file (6)](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/3b23796e-75ec-4bb5-bc57-3552a4b09137)
+
+![file (7)](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/0c9fbabb-294f-453b-8a82-02ae8334cdc9)
 
 
 
