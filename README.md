@@ -50,7 +50,7 @@ Este projeto consiste em um protótipo de robô marinho controlado por controle 
 
 - **Motor CC**: O motor de corrente contínua é responsável por fornecer a propulsão necessária ao robô marinho, e seu controle é realizado por meio do Arduino e do chip L293D, garantindo uma navegação precisa e segura nas profundezas oceânicas e a movimentação das hélices.
 
-**DHT22*: É um sensor altamente confiável e preciso, capaz de medir temperatura e umidade relativa com precisão, sendo uma boa escolha para este projeto de IoT e monitoramento ambiental.
+- **DHT22**: É um sensor altamente confiável e preciso, capaz de medir temperatura e umidade relativa com precisão, sendo uma boa escolha para este projeto de IoT e monitoramento ambiental.
 
 ## Funcionamento
 
