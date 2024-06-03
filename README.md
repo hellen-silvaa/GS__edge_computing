@@ -100,7 +100,7 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 ![file (7)](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/0c9fbabb-294f-453b-8a82-02ae8334cdc9)
 
 
-##Conclusão
+## Conclusão
 O projeto de robô subaquático para coleta de dados tem o potencial de revolucionar a forma como monitoramos e preservamos os ecossistemas marinhos. Com sua capacidade de operar em profundidades extremas e coletar dados precisos, ele se torna uma ferramenta essencial para a pesquisa científica, a formulação de políticas ambientais e a gestão sustentável dos oceanos. Além disso, o desenvolvimento e a integração de novas tecnologias promovem a inovação contínua e o crescimento da economia azul, beneficiando tanto o meio ambiente quanto a sociedade.
 
 ## Contribuição
