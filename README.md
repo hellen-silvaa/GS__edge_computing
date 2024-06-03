@@ -97,7 +97,6 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 ## 
 ![file (6)](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/3b23796e-75ec-4bb5-bc57-3552a4b09137)
 
-![file (7)](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/0c9fbabb-294f-453b-8a82-02ae8334cdc9)
 
 
 ## Conclusão
