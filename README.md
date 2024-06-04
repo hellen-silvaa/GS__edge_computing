@@ -95,7 +95,8 @@ Coletor de dados do fundo do mar, monitorando temperatura e identificando áreas
 
 
 ## 
-![file (6)](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/3b23796e-75ec-4bb5-bc57-3552a4b09137)
+
+![Blue_Ocean_FIAP](https://github.com/hellen-silvaa/GS__edge_computing/assets/127620071/c1814a76-fe59-41af-a985-b8eba6c5a18c)
 
 
 
