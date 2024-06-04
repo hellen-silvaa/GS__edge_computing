@@ -18,7 +18,7 @@ Para montar o protótipo do robô subaquático, serão necessários os seguintes
   - Arduino Uno
   - Jumpers
   - Bateria de 9V
-  - 2 Potenciômetros simulando o joystick
+  - 2 Potenciômetros (simulando o joystick)
   - L293D: para controle de velocidade e direção dos motores CC
   - DHT22
 
@@ -36,7 +36,7 @@ Para montar o protótipo do robô subaquático, serão necessários os seguintes
 
 ## Explicação do Projeto 
 
-Este projeto consiste em um protótipo de robô marinho controlado por controle remoto, capaz de alcançar profundidades oceânicas sem risco de explosão. O sistema é alimentado por uma bateria de 9V e controlado por um Arduino, atuando como o cérebro do dispositivo. O robô é equipado com dois joysticks para controle de movimento e velocidade, além de um chip L293D para gerenciar esses aspectos de forma eficiente.
+Este projeto consiste em um protótipo de robô marinho controlado por controle remoto, capaz de alcançar profundidades oceânicas sem risco de explosão. O sistema é alimentado por uma bateria de 9V e controlado por um Arduino, atuando como o cérebro do dispositivo. O robô é equipado com dois joysticks para controle de movimento e velocidade, além do circuito integrado L293D para gerenciar esses aspectos de forma eficiente.
 
 ## Explicação dos principais componentes
 
