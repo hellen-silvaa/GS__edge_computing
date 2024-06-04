@@ -1,8 +1,3 @@
-/*
-Código para controlar o motor direito e esquerdo de um mini robô aquático
-usando como direção dois joysticks
-*/
-
 // definindo os pinos 
 const int joyLpin = A0;     // pino do joystick esquerdo
 const int joyRpin = A1;     // pino do joystick direito
