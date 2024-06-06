@@ -115,5 +115,5 @@ Contribuições para a melhoria do protótipo são bem-vindas. Se você tiver su
      
    - [ Hellen Silva: RM 559008](https://www.linkedin.com/in/hellen-silva-/)
      
-   - [ Lorenzo: RM 557397](https://www.linkedin.com/in/lorenzo-acquesta/)
+   - [ Lorenzo Acquesta: RM 557397](https://www.linkedin.com/in/lorenzo-acquesta/)
 
